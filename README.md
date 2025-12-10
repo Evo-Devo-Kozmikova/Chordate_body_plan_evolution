@@ -4,7 +4,7 @@
 
 **This repository contains:**
 
-(i) An R script for processing single cell RNA-seq data for Nematostella 24hr stage gastrula (GSE200198)
+(i) An R script (Nematostella script.R) for processing single cell RNA-seq data for Nematostella 24hr stage gastrula (GSE200198)
 
 (ii) An R script for conversion of Seurat objects as RDS files to H5AD format (to be used in SAMap analysis)
 
